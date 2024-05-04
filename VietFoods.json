@@ -8,7 +8,7 @@
       "FoodCity": "Hanoi",
       "SpiceLevel": "Mild",
       "FoodSite": "https://en.wikipedia.org/wiki/Pho",
-      "FoodImage": "https://raw.githubusercontent.com/dnguy5/JSON_315/main/pho.jpg?token=GHSAT0AAAAAACR2WZ2YMND2GYTGNSXSGL2IZRVS5MA",
+      "FoodImage": "https://raw.githubusercontent.com/dnguy5/JSONProjectsIT315/master/pho.jpg",
       "FoodID": "1"
     },
     {
@@ -19,7 +19,7 @@
       "FoodCity": "South Vietnam",
       "SpiceLevel": "Hot",
       "FoodSite": "https://en.wikipedia.org/wiki/B%C3%A1nh_m%C3%AC",
-      "FoodImage": "https://raw.githubusercontent.com/dnguy5/JSON_315/main/mi.jpg?token=GHSAT0AAAAAACR2WZ2ZUTLK6BT3LUU46AJYZRVS5RQ",
+      "FoodImage": "https://raw.githubusercontent.com/dnguy5/JSONProjectsIT315/master/mi.jpg",
       "FoodID": "2"
     },
     {
@@ -30,7 +30,7 @@
       "FoodCity": "Central Vietnam",
       "SpiceLevel": "Cool",
       "FoodSite": "https://en.wikipedia.org/wiki/B%C3%A1nh_x%C3%A8o",
-      "FoodImage": "https://raw.githubusercontent.com/dnguy5/JSON_315/main/xeo.jpg?token=GHSAT0AAAAAACR2WZ2YZ26PEMRFFSOFHZ5IZRVS5ZQ",
+      "FoodImage": "https://raw.githubusercontent.com/dnguy5/JSONProjectsIT315/master/xeo.jpg",
       "FoodID": "3"
     },
     {
@@ -41,7 +41,7 @@
       "FoodCity": "Huế",
       "SpiceLevel": "Hot",
       "FoodSite": "https://en.wikipedia.org/wiki/B%C3%BAn_b%C3%B2_Hu%E1%BA%BF",
-      "FoodImage": "https://raw.githubusercontent.com/dnguy5/JSON_315/main/hue.jpg?token=GHSAT0AAAAAACR2WZ2YN2HTFP7PHBLC2V2MZRVS6BA",
+      "FoodImage": "https://raw.githubusercontent.com/dnguy5/JSONProjectsIT315/master/hue.jpg",
       "FoodID": "4"
     },
     {
@@ -52,7 +52,7 @@
       "FoodCity": "China",
       "SpiceLevel": "Cool",
       "FoodSite": "https://en.wikipedia.org/wiki/G%E1%BB%8Fi_cu%E1%BB%91n",
-      "FoodImage": "https://raw.githubusercontent.com/dnguy5/JSON_315/main/cuon.jpg?token=GHSAT0AAAAAACR2WZ2YCWY7GHK5SVYWCMEGZRVS6GQ",
+      "FoodImage": "https://raw.githubusercontent.com/dnguy5/JSONProjectsIT315/master/cuon.jpg",
       "FoodID": "5"
     }
   ],
